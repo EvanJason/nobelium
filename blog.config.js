@@ -2,7 +2,7 @@ const BLOG = {
   title: '深海如梦的个人实践基地',
   author: '深海如梦',
   email: '534803527@qq.com',
-  link: 'https://evanjason.github.io/notion',
+  link: 'https://evanjason.github.io/notion/',
   description: '深海如梦的个人实践基地',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
